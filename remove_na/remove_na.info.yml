@@ -1,0 +1,6 @@
+name: Remove N/A option
+description:  Remove N/A option from radio button list options
+package: Custom
+
+type: module
+core: 8.x
